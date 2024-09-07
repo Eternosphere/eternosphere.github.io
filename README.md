@@ -8,4 +8,4 @@ Mail - eternosphere@engineer.com,
 
 Phone - 9380602259, 9964479964
 
-_This site is deveoped by Eternosphere_
+_This site is developed by Eternosphere_
