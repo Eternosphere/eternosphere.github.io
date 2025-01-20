@@ -6,6 +6,6 @@ Contact: Harsha A S (CEO)
 Mail - eternosphere@engineer.com,
        eternosphere@aol.com
 
-Phone - 9380602259, 9964479964
+Phone - 9964479964
 
 _This site is developed by Eternosphere_
