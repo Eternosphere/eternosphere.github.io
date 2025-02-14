@@ -1,11 +1,11 @@
 # eternosphere.github.io
-Edutech, Engineering/Technical/Management R&D Company.
+Edtech, Engineering/Technical/Management R&D Company.
 
-Contact: Harsha A S (Founder/CEO)
+Contact:- Harsha A S (Founder/CEO)
 
-Mail - eternosphere@engineer.com, eternosphere@aol.com
+Mail :- eternosphere@engineer.com, eternosphere@aol.com
 
-Phone/Signal - +91 9964479964
+Phone/Signal :- +91 9964479964
 
 _This site is developed by Eternosphere_
 
